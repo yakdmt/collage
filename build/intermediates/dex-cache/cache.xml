@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Android\collage\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0.jar"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Android\collage\app\build\intermediates\pre-dexed\debug\classes-11843c0e305a148c4dd7ff71bb2377e086f705e7.jar"
+        jar="C:\Android\collage\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Android\collage\app\build\intermediates\pre-dexed\debug\picasso-2.3.4-0b4c244d69c6fb3980ce7d4e22c2fa956ea9a55d.jar"
+        jar="C:\Android\collage\app\libs\picasso-2.3.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635"/>
+    <item
+        dex="C:\Android\collage\app\build\intermediates\pre-dexed\debug\classes-224dee97553d22b711e7e5c33e6effaa2b0b1a36.jar"
+        jar="C:\Android\collage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Android\collage\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-f6d5faaa02b6c56beb9c3359cbc6516ece8f81cb.jar"
+        jar="C:\Android\collage\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
